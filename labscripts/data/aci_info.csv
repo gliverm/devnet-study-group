@@ -1,0 +1,6 @@
+﻿tenant_name,tenant_desc,vrf_name,vrf_desc,bd_name,bd_desc,bd_subnet_name,bd_subnet_dec,bd_gw,bd_mask,ap_name,ap_desc,epg_name,epg_desc
+ Tenant1 ,Tenant 1,VRF1,VRF 1,Bd1,BD-1,BD1_Subnet ,BD 1 Subnet,10.10.10.1,24,LegacyApps,Legacy App Profile,EPG1,EPG 1
+Tenant2 ,Tenant 2,VRF2,VRF 2,BD2,BD 2,BD2_Subnet,BD 2 Subnet,10.10.20.1,24,LegacyApps,Legacy App Profile,Epg1,EPG 1
+Tenant1,Tenant 1,VRF1,VRF 1,BD1,BD 1,BD1_Subnet ,BD 1 Subnet,10.10.10.1,24,LegacyApps,Legacy App Profile,EPG2,EPG 2
+Tenant1,Tenant 1,VRF1,VRF 1,BD1,BD 1,BD1_Subnet ,BD 1 Subnet,10.10.10.1,24,LegacyApps,Legacy App Profile,EPG2,EPG 2
+,Tenant 3,VRF3,VRF 3,BD3,BD 3,BD3_Subnet,BD 3 Subnet,10.10.30.1,24,LegacyApps,Legacy App Profile,Epg3,EPG 3
