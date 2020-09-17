@@ -1,0 +1,28 @@
+---
+# acls.yml
+
+- name: TEST
+  entries:
+  - seq: 10
+    src: '10.10.10.10/32'
+    dst: '20.20.20.20/32'
+    action: 'ACCEPT'
+    protocol: 6
+  - seq: 20
+    src: '10.10.20.10/32'
+    dst: '20.20.20.20/32'
+    action: 'ACCEPT'
+    protocol: 6
+
+- name: TEST2
+  entries:
+  - seq: 10
+    src: '10.10.10.10/32'
+    dst: '20.20.20.20/32'
+    action: 'ACCEPT'
+    protocol: 6
+  - seq: 20
+    src: '10.10.20.10/32'
+    dst: '20.20.20.20/32'
+    action: 'ACCEPT'
+    protocol: 6

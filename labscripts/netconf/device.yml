@@ -1,0 +1,7 @@
+---
+# device.yml
+
+host: 'r1.lab.local'
+username: 'wwt'
+password: 'WWTwwt1!'
+port: 830
